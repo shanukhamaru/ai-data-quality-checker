@@ -43,3 +43,18 @@ OpenAI API
 
 Pandas
 
+Here are some screen shots:
+
+
+![image](https://github.com/user-attachments/assets/6944866a-f434-437d-a476-1be9bf9d01bd)
+
+![image](https://github.com/user-attachments/assets/2291ec27-2baa-4dc7-be1c-43431675bc7c)
+
+![image](https://github.com/user-attachments/assets/90aa0dab-d531-4713-b9e1-ae2a85970dc1)
+
+![image](https://github.com/user-attachments/assets/a2fc77dd-9903-40ab-95bf-79326aa94a28)
+
+
+
+
+
